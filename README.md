@@ -5,4 +5,4 @@
 # Some useful URLs
     http://localhost:8080/collabapi/actuator
     http://localhost:8080/collabapi/v1/ping
-
+    http://localhost:8080/collabapi/swagger-ui/index.html

@@ -21,7 +21,7 @@ public class CollaborationController {
     @GetMapping("/ping")
     public String pingService() {
 
-        logger.info(" PingService method call");
+        logger.info(" Ping endpoint call");
         return "Collaboration API is Up and running";
     }
 }
